@@ -374,8 +374,4 @@ st.markdown("---")
 with st.expander("📌 API 안내 / 실행 방법"):
     st.markdown(
         """
-### 실행 방법
-```bash
-pip install streamlit requests openai
-streamlit run app.py
 
